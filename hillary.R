@@ -11,8 +11,8 @@ library(readr)
 #Discurso numero 8 do site
 #setwd("D:\\OneDrive\\Universidade\\Doutorado\\1ºSemestre\\Disciplinas\\MetodosComputacionaisEmEstatistica\\Trabalhos\\SeminárioTextMining\\Aplicacoes\\Hillary_vs_Trump")
 
-hc8 <- read_delim("hc8.csv","\t", escape_double = FALSE,col_names =FALSE)
-hc11 <- read_delim("hc11.csv","\t", escape_double = FALSE,col_names =FALSE)
+hc8 <- read_delim("https://github.com/mariofdesousa/seminarTextMining/blob/master/hc8.csv","\t", escape_double = FALSE,col_names =FALSE)
+hc11 <- read_delim("https://github.com/mariofdesousa/seminarTextMining/blob/master/hc11.csv","\t", escape_double = FALSE,col_names =FALSE)
  
 
  
